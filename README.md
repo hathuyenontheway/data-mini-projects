@@ -9,7 +9,7 @@ I'm working through these projects to build the practical foundation I'll need a
 ## Level 1 — Syntax & Vectorized Thinking
 
 ### 1. Time-Series Data Analysis
-Using a public CSV dataset (Ho Chi Minh City weather data or Vietnam COVID data) to get comfortable with real, messy data.
+Using a public CSV dataset (Ho Chi Minh City weather data) to get comfortable with real, messy data.
 
 - Loading and cleaning CSV files, handling missing values
 - Grouping by month/quarter, computing mean and standard deviation
